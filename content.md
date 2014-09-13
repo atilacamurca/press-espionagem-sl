@@ -1,5 +1,11 @@
 # Introdução
 
+### Sobre Mim
+
+* Graduando em Ciência da Computação pelo IFCE.
+* 7 anos de experiência com Linux.
+* Organizador do COMSOLiD a 6 anos.
+
 ### Introdução
 
 \begin{figure}
@@ -104,23 +110,26 @@ Fonte: <http://www.inet2000.com/public/encryption.htm>
 
 ### Hackers e Crackers
 
-Crackers são pessoas que invadem computadores com propósitos criminais ou ganho pessoal.
+**Crackers** são pessoas que invadem computadores com propósitos criminais ou ganho pessoal.
 
-Enquanto Hackers podem ser especialistas em segurança contratados por empresas, com o
-objetivo de conhecer as vulnerabilidades e saná-las.
+\bigskip
+
+Enquanto **Hackers** podem ser especialistas em segurança contratados por empresas, com o
+objetivo de encontrar possíveis vulnerabilidades e saná-las.
 
 ## Hackeando Google e Duck Duck Go
 
 ### Hackeando Google
 
-Se hackear é uma coisa boa, então alguns sites permitem que isso seja feito de forma
-a otimizar processos, como uma busca. Vejamos um exemplo com o Google quando fazemos a busca:
+Hackear é uma coisa boa! Alguns sites permitem que isso seja feito de forma
+a otimizar processos, como fazer uma **busca**. Vejamos um exemplo com o Google
+quando fazemos a seguinte busca:
 
 ~~~
 comsolid filetype:pdf
 ~~~
 
-Além de buscar a palavra *comsolid*, ele busca apenas arquivos pdf.
+Além de buscar a palavra `comsolid`, ele busca apenas arquivos `pdf`.
 
 ---
 
@@ -132,15 +141,15 @@ Ou ainda podemos fazer buscas em determinados sites somente. Basta fazer uma bus
 inkscape site:comsolid.org
 ~~~
 
-Essa busca pesquisa a palavra *inkscape* no site comsolid.org
+Essa busca pesquisa a palavra `inkscape` no site `comsolid.org`
 
 ### Hackeando Duck Duck Go
 
-Duck Duck Go é um motor de busca preocupado com a pesquisa em si e a privacidade.
+**Duck Duck Go** é um motor de busca preocupado com a pesquisa em si e sua privacidade.
 
 <https://duckduckgo.com/>
 
-Possui parte de seu código livre, isso inclui plugins, add-ons, etc. Página do github
+Possui parte de seu código livre, isso inclui plugins, add-ons, etc. Página do github:
 
 <https://github.com/duckduckgo/>
 
@@ -148,16 +157,15 @@ Possui parte de seu código livre, isso inclui plugins, add-ons, etc. Página do
 
 Duck Duck Go permite *hacks* mais engenhosos. Vamos a eles:
 
-* !google comsolid
-* expand http://va.mu/dIwg
-* hello world python
-* ip address
-* github latexila
-* @comsolid
-* 61900
-* age of linus torvalds
-* define free software
-* reverse dilosmoc
+* !g comsolid - busca comsolid no google
+* expand http://va.mu/dIwg - mostra a URL original
+* ip address - mostra seu endereço IP
+* github sige - mostra repositórios do github
+* @comsolid - mostra usuário do Twitter
+* age of linus torvalds - diz a idade
+* define free software - define uma palavra ou frase
+* weather in fortaleza - mostra a previsão do tempo
+* daft punk soundcloud - busca músicas no soundcloud
 
 ### Hackeando Duck Duck Go
 
@@ -167,6 +175,10 @@ Temos ainda o <http://duckduckhack.com/>
 	\includegraphics[scale=0.25]{img/duckduckhack.png}
 	\caption{Duck Duck Hack}
 \end{figure}
+
+---
+
+\slidetitle{Técnicas para quebrar senhas}
 
 ## Técnicas para quebrar senhas
 
@@ -178,7 +190,7 @@ a entrada é pequena.
 
 Num artigo escrito por Dan Goodin no site <http://arstechnica.com> em que descreve como
 Kevin Young, um pesquisador de segurança de senhas, procedeu para descriptografar
-senhas vazadas pelo Antisec de uma empresa chamada Stratfor.
+senhas vazadas pelo **Antisec** de uma empresa chamada **Stratfor**.
 
 ---
 
